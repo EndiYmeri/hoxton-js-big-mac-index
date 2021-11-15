@@ -3,6 +3,3 @@
 
 const USBigMacPrice = 5.66
 const ITBigMacPrice = 6.80
-const ITBigMacPrice = 6.80
-const ITBigMacPrice = 6.80
-const ITBigMacPrice = 6.80
